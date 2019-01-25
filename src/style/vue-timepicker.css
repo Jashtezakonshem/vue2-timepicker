@@ -88,9 +88,7 @@
   overflow-x: hidden;
   overflow-y: auto;
 }
-.time-picker .dropdown ul.hours {
-  display:none;
-}
+.time-picker .dropdown ul.hours {}
 
 .time-picker .dropdown ul.minutes,
 .time-picker .dropdown ul.seconds,
